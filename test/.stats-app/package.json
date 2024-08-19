@@ -1,0 +1,15 @@
+{
+  "name": "stats-app",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "next": "19.0.0-beta-04b058868c-20240508",
+    "react": "19.0.0-beta-04b058868c-20240508",
+    "react-dom": "19.0.0-beta-04b058868c-20240508"
+  },
+  "engines": {
+    "node": ">=18.17.0",
+    "pnpm": "8.15.7"
+  },
+  "packageManager": "pnpm@8.15.7"
+}
